@@ -70,6 +70,6 @@
 <!-- GitHub Readme Streak Stats - https://github.com/JAMSHIDBEK-ISMOILOV/github-readme-streak-stats -->
 <p align="center">
   <a href="#">
-    <img title="🔥 Streak stats" alt="MuhammadAbdulloh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-abdulloh&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Streak stats" alt="Jamshidbek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JAMSHIDBEK-ISMOILOV&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
