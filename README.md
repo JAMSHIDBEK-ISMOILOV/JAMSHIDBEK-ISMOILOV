@@ -37,6 +37,7 @@
 <a href="https://linkedin.com/in/jamshidbek ismoilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamshidbek ismoilov" height="30" width="40" /></a>
 <a href="https://fb.com/jamshidbek ismoilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jamshidbek ismoilov" height="30" width="40" /></a>
 <a href="https://instagram.com/jamshidbek.ismoilov13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamshidbek.ismoilov13" height="30" width="40" /></a>
+<a href="https://t.me/sardorsohinazarov" title="TG Profile"><img width="80" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
 
