@@ -1,4 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+<!-- MORE https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=JAMSHIDBEK%20ISMOILOV%20&desc=FULL%20STACK%20.NET%20DEVELOPER👨‍💻&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
