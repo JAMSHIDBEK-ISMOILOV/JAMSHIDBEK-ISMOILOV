@@ -7,7 +7,13 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<h3 align="center">.NET full-stack developer from Uzbekistan</h3>
+<!--ANIMATED WELCOME TEXT -->
+<p align="center">
+    <a href="https://github.com/Jamshidbek-Ismoilov/readme-typing-svg">
+        <img
+                src="https://readme-typing-svg.herokuapp.com/?lines=dotNET%20%20Developer;More%20than%20a%202+%20month%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=420&height=45"></a>
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamshidbek-ismoilov&label=Profile%20views&color=0e75b6&style=flat" alt="jamshidbek-ismoilov" /> </p>
