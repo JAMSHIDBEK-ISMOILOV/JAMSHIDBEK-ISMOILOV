@@ -46,11 +46,18 @@
 
 ## 📊 Github stats
 <p>
-    <a align="center" href="https://github-readme-stats.vercel.app/api?username=JAMSHIDBEK-ISMOILOV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="JAMSHIDBEK-ISMOILOV's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=JAMSHIDBEK-ISMOILOV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JAMSHIDBEK-ISMOILOV&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
-    <img alt="JAMSHIDBEK-ISMOILOV's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JAMSHIDBEK-ISMOILOV&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=jamshidbek-ismoilov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="jamshidbek-ismoilov's Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=jamshidbek-ismoilov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jamshidbek-ismoilov&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <img alt="jamshidbek-ismoilov's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jamshidbek-ismoilov&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
 </p>
+
+<!-- <p>
+  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=muhammad-abdulloh&theme=monokai&column=8&no-frame=true&no-bg=true">
+  </a>
+</p> -->
+<a>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/JAMSHIDBEK-ISMOILOV"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JAMSHIDBEK-ISMOILOV" /></a></p><br><br>
